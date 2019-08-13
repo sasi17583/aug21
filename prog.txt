@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+    
+    <head>
+        <title>flipcart</title>
+    </head>
+    <body bgcolor="gray">
+        <nav>
+            <ul>
+                <li>
+                    <a href="file:///C:/Users/sasigopal.v/Desktop/accesories.html">clothing</a>
+                </li>
+                <li>
+                    <a href="file:///C:/Users/sasigopal.v/Desktop/cart%20items.html">cart items</a>
+                </li>
+                <li>
+                    <a href="file:///C:/Users/sasigopal.v/Desktop/contactinformation.html">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </body>
+        </html>
+
